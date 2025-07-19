@@ -6,6 +6,7 @@
 
 ![Pellegrino GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-pellegrino&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector-pellegrino)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"> 
     <img aglin="center" alt="HTML5" 
@@ -19,5 +20,8 @@
     <img aglin="center" alt="React"
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img aglin="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img aglin="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br></br>
+
+
