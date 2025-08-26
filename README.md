@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Héctor Pellegrino 🙋‍♂️ 
-#### Desenvolvedor Front-end
+#### Desenvolvedor Full Stack
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-pellegrino/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hectorpellegriino/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511973810705?text=Ol%C3%A1%20H%C3%A9ctor,%20tudo%20bem?%20Vim%20pelo%20GitHub%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es)
